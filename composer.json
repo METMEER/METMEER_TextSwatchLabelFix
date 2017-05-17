@@ -1,0 +1,21 @@
+{
+    "name": "metmeer/module-textswatchlabelfix",
+    "description": "",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "METMEER",
+            "email": "info@metmeer.nl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "METMEER\\TextSwatchLabelFix\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
